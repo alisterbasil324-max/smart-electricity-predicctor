@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+KAG_energydata_complete.csv
+venv/
+.env
